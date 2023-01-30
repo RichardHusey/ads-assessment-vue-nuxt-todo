@@ -128,4 +128,6 @@ export default {
      }
   }
 }
+
+hello
 </script>
